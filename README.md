@@ -100,6 +100,21 @@ Bu alıştırmada, SQL eklemeyi kullanarak yönetici konsoluna nasıl erişim sa
 
 
 
+<h2>Kitap Önerileri</h2>
+
+<a href="https://www.kitapyurdu.com/kitap/ag-yoneticiliginin-temelleri/429097.html">Ağ Yöneticiliğinin Temelleri – Cemal TANER</a>
+
+<a href="Windows Sistemlerine Yönelik Saldırı ve Savunma Yöntemleri – Enes ASLANBAKAN">Wireshark ile Network Forensic – Rıdvan ERBAŞ</a>
+
+<a href="https://www.pandora.com.tr/kitap/siber-guvenlik-saldiri-ve-savunma-stratejileri/710645">Siber Güvenlik: Saldırı ve Savunma Stratejileri</a>
+
+<a href="https://www.idefix.com/windows-sistemlerine-yonelik-saldiri-ve-savunma-yontemleri-p-390207">Windows Sistemlerine Yönelik Saldırı ve Savunma Yöntemleri – Enes ASLANBAKAN</a>
+
+
+
+
+
+
 <h2>Mobil Uygulama Güvenliği- Android</h2>
 
 
